@@ -1,0 +1,12 @@
+.mt-15 {
+  margin-top: 15px;
+}
+
+.sort-selected {
+  content: '\f00c';
+  font-weight: normal;
+  font-style: normal;
+  margin: 0px 0px 0px 10px;
+  display: inline-block;
+  background-color: aquamarine;
+}
