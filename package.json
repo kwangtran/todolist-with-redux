@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kwangtran.github.io/todolist",
+  "homepage": "http://kwangtran.github.io/todolist-with-redux",
   "dependencies": {
     "lodash": "^4.17.15",
     "react": "^16.8.6",
